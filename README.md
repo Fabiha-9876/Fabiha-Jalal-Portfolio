@@ -57,6 +57,7 @@ features.
 
 - ### Fairy tales in City Life | Personal Project | IUT
 **Tool:** Blender 2.0
+
 Designed and developed an animation video that represents the unusual scenario of modern city life to increase
 awareness.
 
@@ -67,8 +68,10 @@ awareness.
 - **Networking:** Cisco, ns3, gns3, Linux
 - **Software:** Blender, AutoCAD, Microsoft Office Suite
 
-Designed and developed an animation video that represents the unusual scenario of modern city life to increase
-awareness.
+## Honors & Awards
+- **OIC Partial Scholarship** | Islamic University of Technology | **(Merit Position 82)** | (_2019_)
+- **Board Scholarship** | Secondary School Certificate Examination | **(Dhaka Board: Merit Position 32)** | (_2016_)
+- **Board Scholarship** | Junior School Certificate Examination | **(Dhaka Board: Merit Position 07)** | (_2013_)
 
 
 
