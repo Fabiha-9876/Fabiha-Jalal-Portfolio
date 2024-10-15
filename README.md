@@ -14,7 +14,12 @@
 **Relevant Courses:** Data Structures, Algorithms, Machine Learning, Artificial Intelligence, Software Engineering
 
 ### Professional Experience
-- **Management Trainee, Nagad** (_Aug 2023 - Present_) | 
+- **Management Trainee, Nagad** (_Aug 2023 - Present_)
+  Led Quality Assurance efforts during the Nagad App migration, ensuring seamless functionality and robust
+API performance.
+○ Collaborated with cross-functional teams including front-end developers and vendors to integrate new
+features and improvements.
+○ Managed project timelines and deliverables, ensuring on-time completion and adherence to quality standards.
 
 
 
