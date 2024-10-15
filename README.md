@@ -31,7 +31,14 @@ learning experiences.
   - **Provided** technical support to clients, resolving issues promptly and effectively.
   - **Collaborated** with senior engineers to implement network upgrades and security enhancements.
 ## Projects
-### Toll Integration Project | Quality Assurance | Nagad
-Led the integration of toll payments with the Nagad platform, collaborating with government entities and
-ensuring compliance with regulations. Managed cross-functional teams and coordinated testing to ensure seamless integration.
+### Toll Integration Project | Quality Assurance | Nagad (_July 2024 - Aug 2024_)
+**Role:** System Engineer - Software QA
+
+Led the integration of toll payments with the Nagad platform, collaborating with government entities and ensuring compliance with regulations. Managed cross-functional teams and coordinated testing to ensure seamless integration.
+### Cricket Star Project | Quality Assurance | Nagad (_May 2024 to June 2024_)
+
+**Role:** System Engineer - Software QA
+Spearheaded the development of a cricket-focused user engagement platform, enhancing customer interaction
+through gamification. Oversaw the entire project life cycle from planning to execution, ensuring timely delivery.
+
 
