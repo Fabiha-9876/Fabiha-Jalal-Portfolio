@@ -29,9 +29,9 @@ learning experiences.
   - **Developed instructional materials and assessments** to evaluate and enhance student understanding.
 
  - ### Intern | Network and Support Division | Integrated Software and Technologies Ltd. (_Oct 2021 - Dec 2021_)
-  - **Assisted** in network troubleshooting and maintenance, ensuring optimal system performance and reliability.
-  - **Provided** technical support to clients, resolving issues promptly and effectively.
-  - **Collaborated** with senior engineers to implement network upgrades and security enhancements.
+   - **Assisted** in network troubleshooting and maintenance, ensuring optimal system performance and reliability.
+   - **Provided** technical support to clients, resolving issues promptly and effectively.
+   - **Collaborated** with senior engineers to implement network upgrades and security enhancements.
 ## Projects
 - ### Toll Integration Project | Quality Assurance | Nagad (_July 2024 - Aug 2024_)
 **Role:** System Engineer - Software QA
