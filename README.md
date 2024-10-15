@@ -14,36 +14,22 @@
 **Relevant Courses:** Data Structures, Algorithms, Machine Learning, Artificial Intelligence, Software Engineering
 
 ## Professional Experience
-#### Management Trainee | Nagad (_Aug 2023 - Present_)
+### Management Trainee | Nagad (_Aug 2023 - Present_)
   - **Led Quality Assurance** efforts during the Nagad App migration, ensuring seamless functionality and robust
 API performance.
- - **Collaborated with cross-functional teams** including front-end developers and vendors to integrate new
-- **Management Trainee | Nagad** (_Aug 2023 - Present_)
-  
-○  **Led Quality Assurance** efforts during the Nagad App migration, ensuring seamless functionality and robust
-API performance.
+ - **Collaborated with cross-functional teams** including front-end developers and vendors to integrate new features and improvements.
+ - **Managed project timelines and deliverables,** ensuring on-time completion and adherence to quality standards.
 
-○ **Collaborated with cross-functional teams** including front-end developers and vendors to integrate new
-features and improvements.
-
-○ **Managed project timelines and deliverables,** ensuring on-time completion and adherence to quality standards.
-
-- **Adjunct Lecturer | BRAC University** (_May 2024 - Present_)
-  
-○ **Conducted laboratory sessions** for courses in Operating Systems and Microprocessors, facilitating hands-on
+  ### Adjunct Lecturer | BRAC University (_May 2024 - Present_)
+  - **Conducted laboratory sessions** for courses in Operating Systems and Microprocessors, facilitating hands-on
 learning experiences.
+  - **Guided students** through complex concepts and assisted with project development and implementation.
+  - **Developed instructional materials and assessments** to evaluate and enhance student understanding.
 
-○ **Guided students** through complex concepts and assisted with project development and implementation.
-
-○ **Developed instructional materials and assessments** to evaluate and enhance student understanding.
-
-- **Intern | Network and Support Division | Integrated Software and Technologies Ltd.** (_Oct 2021 - Dec 2021_)
-  
-○ **Assisted** in network troubleshooting and maintenance, ensuring optimal system performance and reliability.
-
-○ **Provided** technical support to clients, resolving issues promptly and effectively.
-
-○ **Collaborated** with senior engineers to implement network upgrades and security enhancements.
+  ### Intern | Network and Support Division | Integrated Software and Technologies Ltd. (_Oct 2021 - Dec 2021_)
+  - **Assisted** in network troubleshooting and maintenance, ensuring optimal system performance and reliability.
+  - **Provided** technical support to clients, resolving issues promptly and effectively.
+  - **Collaborated** with senior engineers to implement network upgrades and security enhancements.
 
 
 
