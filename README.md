@@ -58,6 +58,13 @@ features.
 ### Fairy tales in City Life | Personal Project | IUT
 **Tool:** Blender 2.0
 
+## Technical Skills
+- **Programming:** C, C++, Java, Python, HTML, CSS
+- **Frameworks & Tools:** IntelliJ IDEA, Android Studio, Postman, Selenium, Docker, Git
+- **Databases:** Firebase, MySQL, MongoDB
+- **Networking:** Cisco, ns3, gns3, Linux
+- **Software:** Blender, AutoCAD, Microsoft Office Suite
+
 Designed and developed an animation video that represents the unusual scenario of modern city life to increase
 awareness.
 
