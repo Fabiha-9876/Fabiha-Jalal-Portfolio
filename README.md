@@ -10,7 +10,7 @@
 - BSc, CSE | Islamic University of Technology (_May 2017_) |  **CGPA: 3.77/4.00 (First Class Honors)**
 
 ## Thesis
-**An Efficient Feature Extraction Method for Static Malware Analysis Using PE Header Files** that has contributed to building an efficient feature extraction method for malware analysis which will decrease the feature extraction time for PE header files for different dataset by ensuring balance of other parameters using Principal Component Analysis (PCA), an essential area in cybersecurity and machine learning.
+- **An Efficient Feature Extraction Method for Static Malware Analysis Using PE Header Files** that has contributed to building an efficient feature extraction method for malware analysis which will decrease the feature extraction time for PE header files for different dataset by ensuring balance of other parameters using Principal Component Analysis (PCA), an essential area in cybersecurity and machine learning.
 
 ## Professional Experience
 - ### Management Trainee | Nagad (_Aug 2023 - Present_)
@@ -54,10 +54,19 @@ features.
 awareness.
 
 ## Leadership
-- ### Vice President | Computer Society of IUT
+- ### Vice President | Computer Society of IUT | (_2022 - 2023_)
   - **Role:** Vice President
-  - Organized and led multiple national-level programming contests and technical workshops, fostering skills
-development among participants. Successfully managed sponsorship and collaborations with industry leaders.
+  - Organized and led multiple national-level programming contests and technical workshops, fostering skills development among participants.
+  - Successfully managed sponsorship and collaborations with industry leaders.
+- ### Event Manager | Intra College Science Fair | Holy Cross College | (_2017_)
+  - **Role:** Event Mananger
+  - Coordinated logistics and operations for a large-scale science fair, ensuring smooth execution and high participant satisfaction.
+  - Managed a team of volunteers, overseeing all aspects of the event from planning to conclusion.
+ 
+- ### Event Manager | Intra College Debate Fest | Holy Cross College | (_2017_)
+  - **Role:** Event Manager
+  - Planned the budget and managed sponsorship.
+  - Managed a team of volunteers, overseeing all aspects of the event from planning to conclusion.
 
 ## Technical Skills
 - **Programming:** C, C++, Java, Python, HTML, CSS
