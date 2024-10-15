@@ -61,6 +61,13 @@ features.
 Designed and developed an animation video that represents the unusual scenario of modern city life to increase
 awareness.
 
+## Leadership
+- ### Vice President | Computer Society of IUT
+**Role:** Vice President
+
+Organized and led multiple national-level programming contests and technical workshops, fostering skills
+development among participants. Successfully managed sponsorship and collaborations with industry leaders.
+
 ## Technical Skills
 - **Programming:** C, C++, Java, Python, HTML, CSS
 - **Frameworks & Tools:** IntelliJ IDEA, Android Studio, Postman, Selenium, Docker, Git
