@@ -30,6 +30,8 @@ learning experiences.
   - **Assisted** in network troubleshooting and maintenance, ensuring optimal system performance and reliability.
   - **Provided** technical support to clients, resolving issues promptly and effectively.
   - **Collaborated** with senior engineers to implement network upgrades and security enhancements.
-
-
+## Projects
+### Toll Integration Project | Quality Assurance | Nagad
+Led the integration of toll payments with the Nagad platform, collaborating with government entities and
+ensuring compliance with regulations. Managed cross-functional teams and coordinated testing to ensure seamless integration.
 
