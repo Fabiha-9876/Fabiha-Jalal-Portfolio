@@ -53,4 +53,12 @@ iterative testing and refinement.
 Designed and developed an e-commerce application, integrating real-time payment and inventory management
 features.
 
+### Fairy tales in City Life | Personal Project | IUT
+**Tool:** Blender 2.0
+
+Designed and developed an animation video that represents the unusual scenario of modern city life to increase
+awareness.
+
+
+
 
