@@ -34,38 +34,32 @@ learning experiences.
    - **Collaborated** with senior engineers to implement network upgrades and security enhancements.
 ## Projects
 - ### Toll Integration Project | Quality Assurance | Nagad (_July 2024 - Aug 2024_)
-**Role:** System Engineer - Software QA
-
-Led the integration of toll payments with the Nagad platform, collaborating with government entities and ensuring compliance with regulations. Managed cross-functional teams and coordinated testing to ensure seamless integration.
+  - **Role:** System Engineer - Software QA
+  - Led the integration of toll payments with the Nagad platform, collaborating with government entities and ensuring compliance with regulations. Managed cross-functional teams and coordinated testing to ensure seamless integration.
 - ### Cricket Star Project | Quality Assurance | Nagad (_May 2024 to June 2024_)
-**Role:** System Engineer - Software QA
-
-Spearheaded the development of a cricket-focused user engagement platform, enhancing customer interaction
+  - **Role:** System Engineer - Software QA
+  - Spearheaded the development of a cricket-focused user engagement platform, enhancing customer interaction
 through gamification. Oversaw the entire project life cycle from planning to execution, ensuring timely delivery.
 
 - ### Online Cricket Score Prediction | Personal Project | IUT
-**Language:** Python
-
-Developed a machine learning model for predicting cricket scores, achieving a high level of accuracy through
+  - **Language:** Python
+  - Developed a machine learning model for predicting cricket scores, achieving a high level of accuracy through
 iterative testing and refinement.
 
 - ### E-Commerce Web Application | Personal Project | IUT
-**Language:** PHP, Node js
-
-Designed and developed an e-commerce application, integrating real-time payment and inventory management
+  - **Language:** PHP, Node js
+  - Designed and developed an e-commerce application, integrating real-time payment and inventory management
 features.
 
 - ### Fairy tales in City Life | Personal Project | IUT
-**Tool:** Blender 2.0
-
-Designed and developed an animation video that represents the unusual scenario of modern city life to increase
+  - **Tool:** Blender 2.0
+  - Designed and developed an animation video that represents the unusual scenario of modern city life to increase
 awareness.
 
 ## Leadership
 - ### Vice President | Computer Society of IUT
-**Role:** Vice President
-
-Organized and led multiple national-level programming contests and technical workshops, fostering skills
+  - **Role:** Vice President
+  - Organized and led multiple national-level programming contests and technical workshops, fostering skills
 development among participants. Successfully managed sponsorship and collaborations with industry leaders.
 
 ## Technical Skills
