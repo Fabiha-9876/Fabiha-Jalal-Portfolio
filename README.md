@@ -15,11 +15,14 @@
 
 ### Professional Experience
 - **Management Trainee, Nagad** (_Aug 2023 - Present_)
-  Led Quality Assurance efforts during the Nagad App migration, ensuring seamless functionality and robust
+  
+○  **Led Quality Assurance** efforts during the Nagad App migration, ensuring seamless functionality and robust
 API performance.
-○ Collaborated with cross-functional teams including front-end developers and vendors to integrate new
+
+○ **Collaborated with cross-functional teams** including front-end developers and vendors to integrate new
 features and improvements.
-○ Managed project timelines and deliverables, ensuring on-time completion and adherence to quality standards.
+
+○ **Managed project timelines and deliverables,** ensuring on-time completion and adherence to quality standards.
 
 
 
