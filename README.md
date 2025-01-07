@@ -81,7 +81,6 @@ awareness.
 - **Board Scholarship** | Junior School Certificate Examination | **(Dhaka Board: Merit Position 07)** | (_2013_)
 
 ## Extracurricular Activities
-- **Vice President** | Computer Society of IUT | (_2022 - 2023_)
 - **President** | Holy Cross Science Club, Holy Cross College | (_2017 - 2018_)
 - **Debater** | Holy Cross Debating Club, Holy Cross School | (_2012 - 2016_)
 
